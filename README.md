@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Your Name</h1>
+<h1 align="center">Hey there! 👋 I'm Krishna Sharma</h1>
 
 <p align="center">
 🚀 Software Developer | 💡 Problem Solver | 🔧 Tech Enthusiast <br>
@@ -18,7 +18,7 @@
 - 🌐 Exploring Java, Python, MERN Stack, AI, and System Design  
 - 💡 Passionate about building impactful solutions to real-world problems  
 - 📢 I enjoy creating tech content, entrepreneurship, and side projects  
-- 📫 Reach me at: **your_email@gmail.com**  
+- 📫 Reach me at: skri64343@gmail.com 
 - 🧠 Fun Fact: *I love experimenting with new programming languages just for fun!*
 
 ---
