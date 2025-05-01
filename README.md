@@ -1,44 +1,45 @@
-<h1 align="center">Hey there! 👋 I'm Krishna Sharma</h1>
+<h1 align="center">Hey there! 👋 I'm Krishna</h1>
 
 <p align="center">
-🚀 Software Developer | 💡 Problem Solver | 🔧 Tech Enthusiast <br>
-<b>Building Tech One Line at a Time</b>
+🚀 Aspiring Software Engineer | 💻 Tech Enthusiast | 💡 Problem Solver <br>
+<b>Turning Ideas into Code, One Line at a Time</b>
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Illustration" width="300"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="300"/>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 CSE Undergrad | Data Science Specialization  
-- 💻 Currently focused on **Programming & Algorithms**  
-- 🌐 Exploring Java, Python, MERN Stack, AI, and System Design  
-- 💡 Passionate about building impactful solutions to real-world problems  
-- 📢 I enjoy creating tech content, entrepreneurship, and side projects  
-- 📫 Reach me at: skri64343@gmail.com 
-- 🧠 Fun Fact: *I love experimenting with new programming languages just for fun!*
+- 🎓 CSE Undergrad with a passion for **Data Science & Software Development**
+- 🔭 Currently learning **DSA, Web Development, AI/ML, and Systems**
+- 🌱 Exploring **Python, JavaScript, C++, React, and Flask**
+- 💡 Building projects that solve real-world problems
+- 🎯 Goals: Contribute to open-source, build impactful tech products, and master system design
+- 📬 Reach me at: **your_email@gmail.com**
+- 🎉 Fun Fact: *I enjoy designing solutions for complex problems & love tech challenges*
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitter)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourinstagram)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your_email@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
@@ -46,4 +47,18 @@
 ---
 
 ### 📊 GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna070104&show_icons=true&theme=radical)
+
+---
+
+### 🧠 Fun Projects & Interests
+
+- 🗳️ Building a **Facial Recognition Voting System**
+- 🏋️ Fitness & health tracking apps
+- 🎮 Game dev with Unity
+- 🤖 AI & ML experiments
+
+---
+
+> 💬 “Consistency beats talent when talent doesn’t work hard.” — Stay consistent. Keep building. 💻🔥
