@@ -18,16 +18,11 @@
 - 🌱 Exploring **Python, JavaScript, C++, React, and Flask**
 - 💡 Building projects that solve real-world problems
 - 🎯 Goals: Contribute to open-source, build impactful tech products, and master system design
-- 📬 Reach me at: **your_email@gmail.com**
+- 📬 Reach me at: **skri64343@gmail.com**
 - 🎉 Fun Fact: *I enjoy designing solutions for complex problems & love tech challenges*
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourtwitter)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/yourinstagram)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your_email@gmail.com)
 
 ---
 
