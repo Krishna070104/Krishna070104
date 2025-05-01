@@ -46,18 +46,22 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna070104&show_icons=true&theme=radical)
 
 ---
 
-### 🧠 Fun Projects & Interests
+### 📊 GitHub Stats
 
-- 🗳️ Building a **Facial Recognition Voting System**
-- 🏋️ Fitness & health tracking apps
-- 🎮 Game dev with Unity
-- 🤖 AI & ML experiments
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishna070104&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna070104&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+
+
 
 ---
 
