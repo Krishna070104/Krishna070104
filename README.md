@@ -31,13 +31,8 @@
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 ---
 
